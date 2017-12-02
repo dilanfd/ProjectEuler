@@ -27,8 +27,8 @@ def mult_of_3_or_5_upto_N(N):
 
 
 def main():
-    return print(mult_of_3_or_5_upto_N(1000))
+    return mult_of_3_or_5_upto_N(1000)
 
 
 if __name__ == '__main__':
-    main()
+    print(main())
